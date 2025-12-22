@@ -1,0 +1,11 @@
+age,score,email
+25,88.5,test1@gmail.com
+-3,70,test2@gmail.com
+30,150,test3@gmail.com
+abc,90,test4@gmail.com
+40,,test5@gmail.com
+ , ,test6@gmail.com
+-5,-6,test7@gmail.com
+cde, ,test8@gmail.com
+2,-7,test9@gmail.com
+apple,orange,test10@gmail.com

@@ -1,0 +1,72 @@
+[
+    {
+        "row": 3,
+        "column": "age",
+        "error": "Value -3 < minimum 0"
+    },
+    {
+        "row": 4,
+        "column": "score",
+        "error": "Value 150.0 > maximum 100"
+    },
+    {
+        "row": 5,
+        "column": "age",
+        "error": "Expected int but got abc"
+    },
+    {
+        "row": 6,
+        "column": "score",
+        "error": "Missing value"
+    },
+    {
+        "row": 7,
+        "column": "age",
+        "error": "Expected int but got  "
+    },
+    {
+        "row": 7,
+        "column": "score",
+        "error": "Expected float but got  "
+    },
+    {
+        "row": 8,
+        "column": "age",
+        "error": "Value -5 < minimum 0"
+    },
+    {
+        "row": 8,
+        "column": "score",
+        "error": "Value -6.0 < minimum 0"
+    },
+    {
+        "row": 9,
+        "column": "age",
+        "error": "Expected int but got cde"
+    },
+    {
+        "row": 9,
+        "column": "score",
+        "error": "Expected float but got  "
+    },
+    {
+        "row": 10,
+        "column": "score",
+        "error": "Value -7.0 < minimum 0"
+    },
+    {
+        "row": 11,
+        "column": "age",
+        "error": "Expected int but got apple"
+    },
+    {
+        "row": 11,
+        "column": "score",
+        "error": "Expected float but got orangetest10@gmail.com"
+    },
+    {
+        "row": 11,
+        "column": "email",
+        "error": "Missing value"
+    }
+]
