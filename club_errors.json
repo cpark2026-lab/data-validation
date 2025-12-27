@@ -1,0 +1,47 @@
+[
+    {
+        "row": 4,
+        "column": "phone",
+        "error": "invalid form of phone-number (010-XXXX-XXXX): 01012345678"
+    },
+    {
+        "row": 5,
+        "column": "email",
+        "error": "invalid form of email: yujin@school"
+    },
+    {
+        "row": 7,
+        "column": "grade",
+        "error": "grade needs to be between 1~3: 4"
+    },
+    {
+        "row": 9,
+        "column": "grade",
+        "error": "grade needs to be between 1~3: 0"
+    },
+    {
+        "row": 9,
+        "column": "phone",
+        "error": "invalid form of phone-number (010-XXXX-XXXX): 010-3"
+    },
+    {
+        "row": 10,
+        "column": "grade",
+        "error": "grade needs to be between 1~3: 100"
+    },
+    {
+        "row": 10,
+        "column": "join_date",
+        "error": "invalid form of date (YYYY-MM-DD): 2021-02-34"
+    },
+    {
+        "row": 11,
+        "column": "grade",
+        "error": "grade needs to be between 1~3: 9"
+    },
+    {
+        "row": 11,
+        "column": "phone",
+        "error": "invalid form of phone-number (010-XXXX-XXXX): 010-0000-21"
+    }
+]
