@@ -1,0 +1,27 @@
+[
+    {
+        "row": 3,
+        "column": "return_date",
+        "error": "the return date is earlier than the loan date"
+    },
+    {
+        "row": 5,
+        "column": "book_code",
+        "error": "invalid form of book code(ex: AB1234): ab1111"
+    },
+    {
+        "row": 5,
+        "column": "late_fee",
+        "error": "late fees must be 0 or greater: -3"
+    },
+    {
+        "row": 7,
+        "column": "return_date",
+        "error": "invalid form of date (YYYY-MM-DD): 2024-aa-bb"
+    },
+    {
+        "row": 7,
+        "column": "late_fee",
+        "error": "late fees must be 0 or greater: -100"
+    }
+]
